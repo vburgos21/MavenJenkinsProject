@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-08T18:11:49Z" name="Default suite" finished-at="2018-12-08T18:11:51Z" duration-ms="1930">
+    <groups>
+    </groups>
+    <test started-at="2018-12-08T18:11:49Z" name="Default test" finished-at="2018-12-08T18:11:51Z" duration-ms="1930">
+      <class name="MavenAssignment.HomeWork">
+        <test-method is-config="true" signature="open()[pri:0, instance:MavenAssignment.HomeWork@2ea41516]" started-at="2018-12-08T18:11:49Z" name="open" finished-at="2018-12-08T18:11:51Z" duration-ms="1893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="getTitle()[pri:0, instance:MavenAssignment.HomeWork@2ea41516]" started-at="2018-12-08T18:11:51Z" name="getTitle" finished-at="2018-12-08T18:11:51Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+      </class> <!-- MavenAssignment.HomeWork -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
